@@ -22,11 +22,11 @@ body {
   background-color: var(--primary-color);
   padding: 1rem;
   border-radius: 0.5rem;
-  
+
 }
 
 .header-title {
-  text-align: center; 
+  text-align: center;
   font-size: xx-large;
   color: antiquewhite;
   font-weight: bold;
@@ -57,7 +57,7 @@ h3 {
 }
 
 small {
-  padding: 0rem 1rem ;
+  padding: 0rem 1rem;
 }
 
 
@@ -116,3 +116,34 @@ small {
   margin: auto;
   padding: 1rem;
 }
+
+.section {
+  padding: 1rem;
+}
+
+.section h1 {
+  text-align: center;
+}
+
+.ow {
+  background-color: grey;
+}
+
+.footer {
+  background-color: var(--primary-color);
+  padding: 1rem 2rem;
+}
+
+.footer-header {
+  color: black;
+  margin: 0rem 0.0001rem;
+}
+
+.footer .link {
+  color: antiquewhite;
+  text-align: centre;
+  padding: 1rem 0.1rem;
+  font-size: 1rem;
+  margin: 0rem 0.5rem;
+}
+
